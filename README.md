@@ -14,21 +14,28 @@ Some Maps may use additional asset packs, which you will need to source yourself
 *  2B Demon's Gullet
 *  3A Zelkor's Lair <sup>[A]-[1,3,6,15,16]</sup>
 *  3C Fountain of Pestilence
+*  4 The Upper Temple of Orcus <sup>[A]</sup>
 *  4B-A The Zombie Stables
 *  4B-B The Last One Inn <sup>[1]</sup>
 *  4B-C The Weird Plantation
 *  4B-D The River Drippings <sup>[1,4]</sup>
 *  4B-E The Rune Caverns <sup>[1]</sup>
 *  4B-F The Gates of Gloom <sup>[1,5]</sup>
+*  5 Banth's Lair and the Wight's Catacombs <sup>[A]</sup>
+*  7A The Hall of Kazleth <sup>[A]</sup>
+*  9 The Lower Temple of Orcus <sup>[A]</sup>
+*  9A The Hydra's Lair <sup>[A]</sup>
+
 *  Wilderness Area 4-A - The Troll Mound Tunnel (Extra)<sup>[A]-[1,3,4,5]</sup>
 *  Wilderness Area 5 - Cave of Turane <sup>[A]-[1,3,4,5]</sup>
+*  Wilderness Area 17 - Simrath's Tomb <sup>[A]</sup>
 
 # Current WIP Maps
-*  Wilderness Area 4 - The Troll Mound
+*  11 The Waterfall and Akbeth's Grave
+*  2 Marthek's Place and Ambroses' Base
+*  12A Greznek
+*  9A needs some more detail maps as well
 
-# Order of WIP Maps (may change depending on my running campaign)
-1  The Troll Mound
-2  Marthek's Place & Ambros' Base
 
 # Additional Assets used
 Some Assets may be activated in the DungeonDraft File but not really used. Sorry for that. If a map does not denote additional assets, it was created using the default DungeonDraft Assets only.
@@ -51,9 +58,8 @@ Some Assets may be activated in the DungeonDraft File but not really used. Sorry
 * [16] [Essendi's Reefs & Jaws](https://cartographyassets.com/assets/6829/reefsjaws-2/)
 
 # Paid Assets used (I'm not sure if i will keep using these)
-* [A] [Forgotten Adventures](www.patreon.com/forgottenadventures)
+* [A] [ These maps were created using assets from Forgotten Adventures]http://www.forgotten-adventures.net/)
 
 # Change Log
-### 2021.01.11
-*  Added a custom map for tunnels connecting to the Troll Mound, as my players may be captured by Turane and the Trolls in an upcoming session and i've found the Troll Mound to be to large to allow for a believable "prison break" scene.
-*  The Troll Mound is blocked out but needs further refinement, e.g. clutter and stuff
+### 2023_04_15
+* I had to reset the repository and remove the commit history, as i ran over githubs free storage limit. I removed intermediary files from the repository for this reason as well, as these were rather large, especially as i saved them as uncompressed pngs.
